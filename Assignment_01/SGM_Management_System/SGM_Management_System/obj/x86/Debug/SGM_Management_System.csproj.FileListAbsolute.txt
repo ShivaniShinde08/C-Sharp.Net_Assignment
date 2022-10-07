@@ -1,0 +1,11 @@
+F:\Shivani\C# Assignment\Assignment 01\SGM_Management_System\SGM_Management_System\bin\Debug\SGM_Management_System.exe
+F:\Shivani\C# Assignment\Assignment 01\SGM_Management_System\SGM_Management_System\bin\Debug\SGM_Management_System.pdb
+F:\Shivani\C# Assignment\Assignment 01\SGM_Management_System\SGM_Management_System\obj\x86\Debug\SGM_Management_System.Properties.Resources.resources
+F:\Shivani\C# Assignment\Assignment 01\SGM_Management_System\SGM_Management_System\obj\x86\Debug\SGM_Management_System.csproj.GenerateResource.Cache
+F:\Shivani\C# Assignment\Assignment 01\SGM_Management_System\SGM_Management_System\obj\x86\Debug\SGM_Management_System.exe
+F:\Shivani\C# Assignment\Assignment 01\SGM_Management_System\SGM_Management_System\obj\x86\Debug\SGM_Management_System.pdb
+F:\Shivani\C# Assignment\Assignment 01\SGM_Management_System\SGM_Management_System\obj\x86\Debug\SGM_Management_System.frm_Add_Student_Details.resources
+F:\Shivani\C# Assignment\Assignment 01\SGM_Management_System\SGM_Management_System\obj\x86\Debug\SGM_Management_System.frm_Student_Login.resources
+F:\Shivani\C# Assignment\Assignment 01\SGM_Management_System\SGM_Management_System\obj\x86\Debug\SGM_Management_System.csprojResolveAssemblyReference.cache
+F:\Shivani\C# Assignment\Assignment 01\SGM_Management_System\SGM_Management_System\obj\x86\Debug\SGM_Management_System.frm_View_Student_Details.resources
+F:\Shivani\C# Assignment\Assignment 01\SGM_Management_System\SGM_Management_System\bin\Debug\SGM_Management_System.exe.config
