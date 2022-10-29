@@ -50,13 +50,6 @@ namespace SGM_Management_System
         private void tb_Password_TextChanged(object sender, EventArgs e)
         {
             btn_Submit.Enabled = true;
-        }
-
-        private void frm_Student_Login_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        
+        }     
     }
 }
